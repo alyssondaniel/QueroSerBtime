@@ -17,9 +17,9 @@ Se você quer mudar a vida das pessoas e a forma que elas trabalham, ou melhor, 
 ## Aqui você irá
 
 - Garantir o desenvolvimento de software com qualidade, através de integração contínua, automação de testes e profundos code-reviews;
-- Construir plataformas sustentáveis e estáveis para novas ideias de produto; 
-- Encontrar soluções simples e elegantes para problemas difíceis; 
-- Trabalhar com TDD e Testes Automatizados; 
+- Construir plataformas sustentáveis e estáveis para novas ideias de produto;
+- Encontrar soluções simples e elegantes para problemas difíceis;
+- Trabalhar com TDD e Testes Automatizados;
 - Trabalhar com metodologia ágil scrum;
 - Trabalhar com APIs REST;
 - Trabalhar com time multidisciplinar.
@@ -150,3 +150,11 @@ PJ a combinar
 
 ## [Nossos Links](id:Extra-Links)
 * [Btime](https://btime.com.br/)
+
+
+# Ano Bissexto
+Ruby 2.5.0
+http://dojopuzzles.com/problemas/exibe/ano-bissexto/
+
+$ bundle install
+$ rspec
